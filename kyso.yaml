@@ -1,0 +1,5 @@
+title: "Finding extreme values in the Brava Datalake"
+
+description: "Using the Double Median Absolute Deviation to find extreme values in the Brava datalake"
+
+main: finding-extremes-with-dmad.md
